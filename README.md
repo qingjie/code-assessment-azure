@@ -38,4 +38,4 @@ Deleting resource group RG-2...Done
 CACSNYCMAC109:ds Operr$ python3 restore_resource_groups.py 3
 Creating resource group RG-2...Done [/subscriptions/6470cb45-8e22-4798-95cc-0e28af951159/resourceGroups/RG-2]
 ```
-
+![](img/2.png)
