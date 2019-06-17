@@ -10,10 +10,10 @@ sudo pip3 install -r requirements.txt
 
 ## set env
 ```
-export AZURE_TENANT_ID=72809e3c-fdd1-4389-adf1-83121a94e593
-export AZURE_CLIENT_ID=77502d6d-5574-4a80-9016-3259e52e0f68
-export AZURE_SUBSCRIPTION_ID=6470cb45-8e22-4798-95cc-0e28af951159
-export AZURE_CLIENT_SECRET=13X-m01zbvc/nAnkjHcymgGW+OAylgm+
+export AZURE_TENANT_ID=...
+export AZURE_CLIENT_ID=...
+export AZURE_SUBSCRIPTION_ID=...
+export AZURE_CLIENT_SECRET=...
 ```
 
 ## create resource 3 groups
