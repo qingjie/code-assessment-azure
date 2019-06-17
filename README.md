@@ -1,4 +1,4 @@
-check python version
+ check python version
 ```
 CACSNYCMAC109:ds Operr$ python3 -V
 Python 3.7.3
